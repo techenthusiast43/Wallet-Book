@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Environment variables & secrets (Never commit!)
+.env
+.env.*
+*.env
+frontend/.env
+frontend/.env.*
+!.env.example
+!frontend/.env.example
+
+# Hardhat & build output
+cache/
+artifacts/
+dist/
+frontend/dist/
+build/
+coverage/
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
