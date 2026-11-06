@@ -2,6 +2,12 @@
 
 **WalletBook** is a lightweight, decentralized Web3 address book dApp deployed on the **BOT Chain** network. It allows users to privately save, edit, search, and manage wallet addresses with custom contact names directly on-chain.
 
+[![Whitepaper](https://img.shields.io/badge/Whitepaper-Read%20v1.0-teal)](WHITEPAPER.md)
+[![Smart Contract](https://img.shields.io/badge/BOT%20Scan-0x3C75...B7a2-emerald)](https://scan.bohr.life/address/0x3C7558cEfEcA0fECE815D2CfA949bAa7C02bB7a2)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+> 📄 **Official Whitepaper**: Read our comprehensive [WalletBook Whitepaper](WHITEPAPER.md) covering architecture, $O(1)$ algorithmic complexity, threat modeling, and roadmap.
+
 ---
 
 ## 🌐 BOT Chain Network Parameters
